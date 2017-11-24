@@ -1,0 +1,1 @@
+# phantombot_GW2_addon
